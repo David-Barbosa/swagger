@@ -1,0 +1,5 @@
+.vs/config/applicationhost.config
+Swagger/bin
+Swagger/obj/
+packages/
+Swagger/packages.config
