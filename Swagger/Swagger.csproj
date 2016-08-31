@@ -14,7 +14,7 @@
     <RootNamespace>Swagger</RootNamespace>
     <AssemblyName>Swagger</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -137,7 +137,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>12159</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:12159/</IISUrl>
+          <IISUrl>http://localhost/Swagger</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
